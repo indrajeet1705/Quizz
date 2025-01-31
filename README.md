@@ -1,5 +1,5 @@
 # Quizz - Interactive Quiz Application
-
+ 
 ## Overview
 **Quizz** is a feature-rich quiz application built as an assignment for an internship opportunity. The application provides an engaging and futuristic UI, offering users a seamless experience while answering quiz questions. At the end of the quiz, it features an advanced data visualization module that presents results in an intuitive and insightful manner.
 
